@@ -10,16 +10,7 @@ This project implements various machine learning models for breast cancer predic
   - XGBoost
 - Achieved accuracy above 94% for all models
 - Best performing model: Random Forest with 95.79% accuracy
-- Comprehensive data preprocessing and feature selection
-
-## Project Files Directory
-
-Project Files/
-├── articles/                  
-├── dataset/
-├── graphs/
-├── scripts/                               
-└── Breast Cnacer Report GREEK       
+- Comprehensive data preprocessing and feature selection      
 
 ## 📊 Results Summary
 
