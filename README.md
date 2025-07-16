@@ -12,6 +12,15 @@ This project implements various machine learning models for breast cancer predic
 - Best performing model: Random Forest with 95.79% accuracy
 - Comprehensive data preprocessing and feature selection
 
+## Project Files Directory
+
+Project Files/
+├── articles/                  
+├── dataset/
+├── graphs/
+├── scripts/                               
+└── Breast Cnacer Report GREEK       
+
 ## 📊 Results Summary
 
 | Model               | Accuracy | Precision | Recall | F1-Score | ROC AUC |
